@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Compiled C++ executables
+vector_sequential
+vector_openmp
+benchmark
+
+# Temporary files
+*.tmp
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
