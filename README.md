@@ -696,22 +696,27 @@ graphs/
 ```
 
 ---
-## Experimental Results
-
-The implementation was tested using sequential and OpenMP-based
-parallel vector multiplication with different vector sizes and
-thread configurations.
-
 ### Execution Screenshots
 
-![Sequential implementation](screenshots/screenshot_01.png)
+![Benchmark results](screenshot_01.png)
 
-![OpenMP execution](screenshots/screenshot_02.png)
+![Benchmark output](screenshot_02.png)
 
-![Benchmark results](screenshots/screenshot_03.png)
+![OpenMP benchmark](screenshot_03.png)
 
-![Performance comparison](screenshots/screenshot_04.png)
+![OpenMP vector multiplication](screenshot_04.png)
 
+![OpenMP execution with multiple threads](screenshot_05.png)
+
+![Compilation and execution](screenshot_06.png)
+
+![Sequential vector multiplication](screenshot_07.png)
+
+![WSL environment](screenshot_08.png)
+
+![Project setup](screenshot_09.png)
+
+![Development environment](screenshot_10.png)
 
 ## 16. Conclusion
 
