@@ -696,6 +696,22 @@ graphs/
 ```
 
 ---
+## Experimental Results
+
+The implementation was tested using sequential and OpenMP-based
+parallel vector multiplication with different vector sizes and
+thread configurations.
+
+### Execution Screenshots
+
+![Sequential implementation](screenshots/screenshot_01.png)
+
+![OpenMP execution](screenshots/screenshot_02.png)
+
+![Benchmark results](screenshots/screenshot_03.png)
+
+![Performance comparison](screenshots/screenshot_04.png)
+
 
 ## 16. Conclusion
 
