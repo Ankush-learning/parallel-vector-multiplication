@@ -698,25 +698,25 @@ graphs/
 ---
 ### Execution Screenshots
 
-![Benchmark results](screenshot_01.png)
+![Benchmark results](screenshots/screenshot_01.png)
 
-![Benchmark output](screenshot_02.png)
+![Benchmark output](screenshots/screenshot_02.png)
 
-![OpenMP benchmark](screenshot_03.png)
+![OpenMP benchmark](screenshots/screenshot_03.png)
 
-![OpenMP vector multiplication](screenshot_04.png)
+![OpenMP vector multiplication](screenshots/screenshot_04.png)
 
-![OpenMP execution with multiple threads](screenshot_05.png)
+![OpenMP execution with multiple threads](screenshots/screenshot_05.png)
 
-![Compilation and execution](screenshot_06.png)
+![Compilation and execution](screenshots/screenshot_06.png)
 
-![Sequential vector multiplication](screenshot_07.png)
+![Sequential vector multiplication](screenshots/screenshot_07.png)
 
-![WSL environment](screenshot_08.png)
+![WSL environment](screenshots/screenshot_08.png)
 
-![Project setup](screenshot_09.png)
+![Project setup](screenshots/screenshot_09.png)
 
-![Development environment](screenshot_10.png)
+![Development environment](screenshots/screenshot_10.png)
 
 ## 16. Conclusion
 
